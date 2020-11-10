@@ -1,0 +1,5 @@
+{
+  "plaintext": "Hello, world!",
+  "markdown": "**Hello**, world!",
+  "html": "<strong>Hello</strong>, world!"
+}
